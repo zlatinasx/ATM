@@ -2,13 +2,13 @@
 This repository contains a simple ATM simulation program written in Java. The program allows users to perform basic banking operations such as checking account balance, depositing funds, and withdrawing money from both checking and saving accounts.
 
 **Table of Contents**
-Introduction
-Features
-Class Structure
-ATM
-Account
-OptionMenu
-Usage
+1. Introduction
+2. Features
+3. Class Structure
+-ATM
+-Account
+-OptionMenu
+4.Usage
 
 **Introduction**
 The ATM simulation program provides a console-based interface for users to interact with their bank accounts. It allows users to login with a customer number and PIN, and perform various banking operations once authenticated.
